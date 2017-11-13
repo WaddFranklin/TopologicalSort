@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1510572003 source:/home/wadd/Topological/graph.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"graph.h"
+	"stack.h"
+
+1510572828 source:/home/wadd/Topological/main.c
+	<stdio.h>
+	"node.h"
+	"graph.h"
+	"stack.h"
+
+1510076892 source:/home/wadd/Topological/node.c
+	<stdlib.h>
+	"node.h"
+
+1510076635 /home/wadd/Topological/node.h
+
+1510573062 /home/wadd/Topological/stack.h
+
+1510541246 source:/home/wadd/Topological/stack.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"stack.h"
+
+1510572003 /home/wadd/Topological/graph.h
+
+1510541916 /home/wadd/Topological/graph.c
+	<stdlib.h>
+	"node.h"
+	"graph.h"
+	"stack.h"
+
+1510572003 source:/home/wadd/TopologicalSort/graph.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"graph.h"
+	"stack.h"
+
+1510076635 /home/wadd/TopologicalSort/node.h
+
+1510572003 /home/wadd/TopologicalSort/graph.h
+
+1510573062 /home/wadd/TopologicalSort/stack.h
+
+1510572828 source:/home/wadd/TopologicalSort/main.c
+	<stdio.h>
+	"node.h"
+	"graph.h"
+	"stack.h"
+
+1510076892 source:/home/wadd/TopologicalSort/node.c
+	<stdlib.h>
+	"node.h"
+
+1510573062 source:/home/wadd/TopologicalSort/stack.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"stack.h"
+
